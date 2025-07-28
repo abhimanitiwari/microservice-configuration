@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: hiiii
-
 eureka:
   client:
     register-with-eureka: true
